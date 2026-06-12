@@ -1,0 +1,6 @@
+{
+  "name": "Dark Chess",
+  "description": "Um jogo de xadrez imersivo de fantasia sombria com diálogos de RPG retrô e síntese de efeitos sonoros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
